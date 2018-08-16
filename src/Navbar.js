@@ -22,7 +22,7 @@ return (
             </li> */
         }
             <li className="nav-item">
-                <a className="nav-link" href="/">Productos en Venta</a>
+                <a className="nav-link" href="/">Productos en Venta (Disponibles en Cochabamba)</a>
             </li>
         </ul>
         <ul className="nav navbar-nav ml-auto w-100 justify-content-end">
