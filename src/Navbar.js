@@ -26,7 +26,7 @@ return (
             </li>
         </ul>
         <ul className="nav navbar-nav ml-auto w-100 justify-content-end">
-              <span className="navbar-text">{`Consultas/Compras ----->>>`}</span>
+              <span className="navbar-text">{`Consultas/Compras:`}</span>
               <li className="nav-item">
                 <a href="https://wa.me/14792220203" target="_blank" rel="noopener  noreferrer">
                 <img src={whatsapplogo} width="40" height="40" alt="whatsapp"/>
