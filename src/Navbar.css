@@ -1,0 +1,43 @@
+
+.fix-nav {
+  /*position: relative;
+  top: 0;
+  width: 100%;*/
+}
+
+/*
+.navbar-nav{
+margin: 0 auto;
+table-layout: fixed;
+float: center;
+  }
+*/
+
+ .heado {
+  position: fixed;	
+  text-align: center;
+  z-index: 1030;
+  top:50px;
+  right: 0;
+  left: 0;
+  font-family:"Baskerville Old Face";
+  font-size: 70px;
+  background-color: white;
+}
+
+.fonto {
+  font-family:"Baskerville Old Face";
+  font-size: 100px;
+  text-align: justify;
+  color: blue;
+}
+
+/*
+
+#nav.affix 
+{
+    position: fixed;
+    top: 100px;
+    width: 100%;
+    z-index:9999;
+}*/
